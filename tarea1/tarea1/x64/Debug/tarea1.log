@@ -1,0 +1,5 @@
+﻿  tarea1.cpp
+C:\Users\matth\OneDrive\TEC\cnb\cloud-computing\tarea1\tarea1\tarea1.cpp(43,18): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\matth\OneDrive\TEC\cnb\cloud-computing\tarea1\tarea1\tarea1.cpp(44,18): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\matth\OneDrive\TEC\cnb\cloud-computing\tarea1\tarea1\tarea1.cpp(24,5): warning C4101: 'i': variable local sin referencia
+  tarea1.vcxproj -> C:\Users\matth\OneDrive\TEC\cnb\cloud-computing\tarea1\x64\Debug\tarea1.exe
